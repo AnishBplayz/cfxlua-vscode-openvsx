@@ -1,11 +1,11 @@
 # CfxLua IntelliSense (FiveM / RedM)
 
-[![Open VSX Registry](https://img.shields.io/open-vsx/v/anishbplayz/cfxlua-vscode-cox)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-cox) [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/anishbplayz/cfxlua-vscode-cox)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-cox)
+[![Open VSX Registry](https://img.shields.io/open-vsx/v/anishbplayz/cfxlua-vscode-openvsx)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-openvsx) [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/anishbplayz/cfxlua-vscode-openvsx)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-openvsx) [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/anishbplayz.cfxlua-vscode-openvsx)](https://marketplace.visualstudio.com/items?itemName=anishbplayz.cfxlua-vscode-openvsx) [![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/anishbplayz.cfxlua-vscode-openvsx)](https://marketplace.visualstudio.com/items?itemName=anishbplayz.cfxlua-vscode-openvsx)
+
+**Source:** [AnishBplayz/cfxlua-vscode-openvsx](https://github.com/AnishBplayz/cfxlua-vscode-openvsx)
 
 > [!NOTE]
-> **This is a community maintained fork of archived [overextended/cfxlua-vscode](https://github.com/overextended/cfxlua-vscode).**
-> 
-> **Temporary Publishing Notice:** This extension is temporarily published under the `anishbplayz` namespace on Open VSX Registry until the community maintains official publishing. Once the community takes over publishing, this temporary version will be deprecated in favor of the official release.
+> Community-maintained fork of archived [overextended/cfxlua-vscode](https://github.com/overextended/cfxlua-vscode). Published under the `anishbplayz` namespace on [Open VSX Registry](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-openvsx) and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anishbplayz.cfxlua-vscode-openvsx).
 
 _This extension is not authored, published, sponsored, nor endorsed by Cfx.re._
 
