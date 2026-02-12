@@ -2,7 +2,7 @@
   "name": "cfxlua-vscode-openvsx",
   "displayName": "CfxLua IntelliSense for VSCode | OpenVSX",
   "description": "Natives and IntelliSense support for the Lua Script runtime used by FiveM and RedM.",
-  "version": "1.10.16",
+  "version": "1.10.17",
   "publisher": "anishbplayz",
   "license": "MIT",
   "repository": {
